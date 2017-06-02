@@ -4,10 +4,7 @@
 
 #### X조
 **조원**
-+ Tony
-+ David
-+ Ian
-+ Robin
++ Junseok Oh
 - - -
 
 ## 방법
