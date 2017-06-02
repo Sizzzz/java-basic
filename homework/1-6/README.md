@@ -8,6 +8,8 @@
 + David
 + Ian
 + Robin
+
+김수진
 - - -
 
 ## 방법
