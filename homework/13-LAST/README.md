@@ -2,11 +2,13 @@
 
 ## 각 조는 하단에 아래와 같은 형식으로 조원의 구성원을 입력하세요
 
-X조
-Tony
-David
-Ian
-Robin
+#### X조
+**조원**
++ Tony
++ David
++ Ian
++ Robin
+- - -
 
 ## 방법
 1. 각 조 조장은 napi/java-basic repository 를 fork 딴 후, write 권한을 받아간다.
